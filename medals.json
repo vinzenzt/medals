@@ -1,0 +1,26 @@
+{
+  "coffee": {
+    "count": 0,
+    "max": 10
+  },
+  "party": {
+    "count": 0,
+    "max": 5
+  },
+  "culture": {
+    "count": 0,
+    "max": 10
+  },
+  "alcohol": {
+    "count": 0,
+    "max": 10
+  },
+  "wellness": {
+    "count": 0,
+    "max": 3
+  },
+  "hiking": {
+    "count": 0,
+    "max": 5
+  }
+}
