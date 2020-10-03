@@ -8,11 +8,11 @@
     "max": 5
   },
   "culture": {
-    "count": 1,
+    "count": 2,
     "max": 10
   },
   "alcohol": {
-    "count": 1,
+    "count": 2,
     "max": 10
   },
   "wellness": {
